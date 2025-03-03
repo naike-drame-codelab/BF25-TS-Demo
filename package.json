@@ -4,8 +4,7 @@
   "description": "",
   "license": "ISC",
   "author": "Naïké",
-  "main": "src/app.ts",
-  "type": "module",
+  "main": "dist/app.js",
   "scripts": {
     "build": "tsc"
   },
