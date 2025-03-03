@@ -1,0 +1,16 @@
+{
+  "name": "demots",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Naïké",
+  "main": "src/app.ts",
+  "type": "module",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "tsc": "^2.0.4",
+    "typescript": "^5.8.2"
+  }
+}
